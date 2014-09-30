@@ -1,4 +1,8 @@
-/* Parse.js */
+/**
+ * Parse.js
+ *
+ * Parse Integration initializer
+ */
 define(
   [
    'jquery',

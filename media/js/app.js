@@ -6,6 +6,7 @@ define([
   'pParse'
 ], function($, _, Backbone,pParse){
   var initialize = function(){
+	alert('deployed');
   }
 
   return {
